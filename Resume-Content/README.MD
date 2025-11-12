@@ -538,7 +538,7 @@ Programming Knowledge</a></li>
       <details>
         <summary>Software And Data Engineering <strong> 5 Semesters Formation</summary>
         <p align="center" id="Work_1">
-        <img width="800"  src="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/refs/heads/main/Resources/img/IUDitital.jpg"> <br>
+        <img width="800"  src="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/refs/heads/main/Resources/img/IUDitital.png"> <br>
       </p>
       </details>
    </td>
@@ -599,3 +599,4 @@ Programming Knowledge</a></li>
 </tbody>
 </table>
 </div>
+
