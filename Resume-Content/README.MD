@@ -7,9 +7,9 @@
 <img width="100%" height="200" style="object-fit:cover; border-radius:10px;" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="hacker coding terminal"/>
 
 ```ansi
-[2;32m┌──([1;32mroot💀jpdz[2;32m)─[[1;36m~/resume[2;32m]
-└─[1;32m$[0m ./decrypt_credentials.sh --all
-[1;32m[OK][0m access granted · 30+ certifications unlocked ✓
+[2;32m┌──([1;32mroot💀jpdz[2;32m)─[[1;36m~/resume[2;32m]
+└─[1;32m$[0m ./decrypt_credentials.sh --all
+[1;32m[OK][0m access granted · 30+ certifications unlocked ✓
 ```
 
 <a href="https://readme-typing-svg.demolab.com">
