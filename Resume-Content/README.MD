@@ -2,12 +2,14 @@
 <!--                    RESUME · CONTENT HEADER                   -->
 <!-- ============================================================ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0b0f1a,30:00FF66,70:00d4ff,100:0b0f1a&amp;height=200&amp;section=header&amp;text=Resume%20%26%20Certificates&amp;fontColor=ffffff&amp;fontSize=44&amp;fontAlignY=38&amp;desc=Jeremy%20Pedraza%20%E2%80%A2%20FullStack%20Engineer&amp;descSize=18&amp;descAlignY=60&amp;animation=fadeIn"/>
-
 <div align="center">
 
+<img width="100%" height="170" style="object-fit:cover" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="matrix banner"/>
+
+# `> Resume & Certificates`
+
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;pause=900&amp;color=00FF66&amp;center=true&amp;vCenter=true&amp;width=560&amp;lines=root%40jpdz%3A~%24+cat+credentials.json;30%2B+verified+certifications;7%2B+years+of+experience;%5BOK%5D+access+granted" alt="terminal" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;pause=900&amp;color=00FF66&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Jeremy+Pedraza+%E2%80%A2+FullStack+Engineer;30%2B+verified+certifications;7%2B+years+of+experience;%5BOK%5D+access+granted" alt="terminal" />
 </a>
 
 <br/>
@@ -62,11 +64,15 @@
   <img width="380" src="https://static.wixstatic.com/media/6f12b8_56dfd62a41b049ef892a4c0ee6a7e39d~mv2.gif" alt="education"/>
 </p>
 
+<div align="center">
+
 | # | Program | Institution | Detail |
 |:-:|---|---|:-:|
 | 1 | **Software &amp; Data Engineering** *(5 semesters)* | IU Digital de Antioquia | <details><summary>📜</summary><img width="760" src="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/refs/heads/main/Resources/img/IUDitital.png"/></details> |
 | 2 | **Technologist · Software Analysis &amp; Development (ADSI)** | SENA | <details><summary>📜</summary><img width="760" src="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/refs/heads/main/Resources/img/SENA-ADSI.jpg"/></details> |
 | 3 | **Technologist in Administrative Management** | — | <details><summary>📜</summary><img width="520" src="https://user-images.githubusercontent.com/66846214/119906911-cb89f800-bf14-11eb-8923-506b7900e735.png"/></details> |
+
+</div>
 
 <br/>
 
@@ -83,6 +89,8 @@
   <img width="35" src="https://media.giphy.com/media/fo2dhRTmaULbStoFkX/giphy.gif"/>
 </p>
 
+<div align="center">
+
 | # | Certificate | Topic | Detail |
 |:-:|---|---|:-:|
 | 1 | **MinTIC — Talento Tech Bootcamp** | Software Development | <details><summary>📜</summary><img width="760" src="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/refs/heads/main/Resources/img/talento_tech_bootcamp.jpg"/></details> |
@@ -91,10 +99,14 @@
 | 4 | **Web Programming Fundamentals** | HTML5 · CSS3 · JavaScript | <details><summary>📜</summary><img width="760" src="https://user-images.githubusercontent.com/66846214/119887898-56112e00-befa-11eb-81ba-6591e81b51fa.jpg"/></details> |
 | 5 | **Standard C++ Foundation** | C++ certified | <details><summary>📜</summary><img width="760" src="https://user-images.githubusercontent.com/66846214/119885887-00d41d00-bef8-11eb-9640-2420fdbf258e.jpg"/></details> |
 
+</div>
+
 <details>
 <summary><b>☕ &nbsp;Java Specialization Track (7 certificates)</b></summary>
 
 <br/>
+
+<div align="center">
 
 | # | Certificate | Focus | Detail |
 |:-:|---|---|:-:|
@@ -104,6 +116,8 @@
 | 4 | **Object-Oriented Java Programming** | OOP core | <details><summary>📜</summary><img width="760" src="https://user-images.githubusercontent.com/66846214/122602128-eb09d180-d037-11eb-9560-c63c09118397.png"/></details> |
 | 5 | **Java — Control Variables (OOP)** | Control structures | <details><summary>📜</summary><img width="760" src="https://user-images.githubusercontent.com/66846214/134498915-2fc37249-c3db-4937-822d-67754a262a2d.jpg"/></details> |
 | 6 | **Java J2SE &amp; Collections** | In-memory data mgmt | <details><summary>📜</summary><img width="760" src="https://user-images.githubusercontent.com/66846214/124141151-c86fb380-da4e-11eb-941b-3e2e4d45769f.png"/></details> |
+
+</div>
 
 </details>
 
@@ -119,6 +133,8 @@
   <img width="400" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" alt="devops cloud"/>
 </p>
 
+<div align="center">
+
 | # | Certificate | Provider | Detail |
 |:-:|---|---|:-:|
 | 1 | **Google Cloud — Core Infrastructure** | Google Cloud | <details><summary>📜</summary><img width="760" src="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/refs/heads/main/Resources/img/Google-Core-Infraestructure.jpg"/></details> |
@@ -126,6 +142,8 @@
 | 3 | **AWS Cloud Basics** | Amazon Web Services | <details><summary>📜</summary><img width="760" src="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/refs/heads/main/Resources/img/Cloud%20AWS%20BASICS_1.jpg"/></details> |
 | 4 | **Webinar — Microsoft Azure** | Microsoft | <details><summary>📜</summary><img width="760" src="https://user-images.githubusercontent.com/66846214/121727239-432d5a80-cab1-11eb-9929-d3cdd4a75d19.png"/></details> |
 | 5 | **Webinar — DevOps** | DevOps culture | <details><summary>📜</summary><img width="760" src="https://user-images.githubusercontent.com/66846214/124177445-e3095300-da75-11eb-9a72-4f2f5f99b799.jpg"/></details> |
+
+</div>
 
 <br/>
 
@@ -139,11 +157,15 @@
   <img width="420" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="hacker matrix"/>
 </p>
 
+<div align="center">
+
 | # | Certificate | Provider | Detail |
 |:-:|---|---|:-:|
 | 1 | **Google Cybersecurity** | Google | <details><summary>📜</summary><img width="760" src="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/refs/heads/main/Resources/img/CiberSecurity.jpg"/></details> |
 | 2 | **Computer Security Controls** | Information security | <details><summary>📜</summary><img width="760" src="https://user-images.githubusercontent.com/66846214/119887189-6ecd1400-bef9-11eb-834e-3eaf4ef050c7.jpg"/></details> |
 | 3 | **Google Professional IT Support** | Google | <details><summary>📜</summary><img width="760" src="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/refs/heads/main/Resources/img/IT%20SUPPORT.jpg"/></details> |
+
+</div>
 
 <br/>
 
@@ -159,6 +181,8 @@
   <img width="70" src="https://media.giphy.com/media/S8TzUKzRPjepzJx37U/giphy.gif"/>
 </p>
 
+<div align="center">
+
 | # | Certificate | Area | Detail |
 |:-:|---|---|:-:|
 | 1 | **Google Data Analysis** | Data Analytics | <details><summary>📜</summary><img width="760" src="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/refs/heads/main/Resources/img/Data-%20Analysis.jpg"/></details> |
@@ -169,10 +193,14 @@
 | 6 | **Customer Service** | Soft skills | <details><summary>📜</summary><img width="760" src="https://user-images.githubusercontent.com/66846214/119907491-02144280-bf16-11eb-815b-93b688495fd0.jpg"/></details> |
 | 7 | **Webinar — UX Design** | UX/UI | <details><summary>📜</summary><img width="760" src="https://user-images.githubusercontent.com/66846214/121729214-cfd91800-cab3-11eb-9cb9-3ecdc5a1bc38.png"/></details> |
 
+</div>
+
 <details>
 <summary><b>🧰 &nbsp;Pre-work &amp; Front-End Webinars</b></summary>
 
 <br/>
+
+<div align="center">
 
 | Certificate | Detail |
 |---|:-:|
@@ -180,6 +208,8 @@
 | **Prework — WSL, GitHub &amp; VS Code (macOS)** | <details><summary>📜</summary><img width="760" src="https://user-images.githubusercontent.com/66846214/119886013-23fecc80-bef8-11eb-80f0-1d3761a0752f.jpg"/></details> |
 | **Webinar — Front-End with Visual .NET** | <details><summary>📜</summary><img width="760" src="https://user-images.githubusercontent.com/66846214/120033967-f716ec00-bfc1-11eb-9211-2929b8482de8.png"/></details> |
 | **Webinar — Front-End Web Developer** | <details><summary>📜</summary><img width="760" src="https://user-images.githubusercontent.com/66846214/120033967-f716ec00-bfc1-11eb-9211-2929b8482de8.png"/></details> |
+
+</div>
 
 </details>
 
@@ -199,12 +229,18 @@
 
 ### 🟢 Current Roles (2025 – Present)
 
+<div align="center">
+
 | Role | Company | Period | Highlights |
 |---|---|:-:|---|
 | **Full-Stack Developer &amp; DevOps Consultant (PEC)** | Inter-American Development Bank (IDB / BID) | 2025-11 → *Now* | Design, development, deployment &amp; DevOps of an interactive web platform for managing &amp; visualizing local agro-industrial environmental data in Argentina. Frontend + backend, CI/CD pipelines &amp; cloud infra, in coordination with SAGyP. |
 | **Technical Lead in Software Development** | Softlogy S.A.S | 2025-08 → *Now* | Quality &amp; audit policies for software development, agile methodologies, modern frameworks &amp; DevOps CI/CD. Deployment, monitoring &amp; maintenance on cloud (SaaS, IaaS, DBaaS). Team leadership, automation &amp; continuous improvement. |
 
+</div>
+
 ### 💼 Recent Experience (2022 – 2025)
+
+<div align="center">
 
 | Role | Company | Period | Highlights |
 |---|---|:-:|---|
@@ -213,10 +249,14 @@
 | **IT Analyst** | Arintia Group S.A.S | 2023-09 → 2024-07 | End-to-end IT solutions for multiple companies (CARIA GROUP, TECHOS SAS, ProntoWASH, EcologyColombia): incident resolution, software development, server &amp; database administration, ERP management &amp; support. <details><summary>📜</summary><img width="760" src="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/refs/heads/main/Resources/img/IT_Analyst.jpg"/></details> |
 | **IT Assistant** | Sistemas Comerciales Syscom S.A. | 2022-12 → 2023-09 | Hardware maintenance &amp; repair, network configuration (VLAN, VPN, DNS, NAT, subnetting), Windows Server admin (IIS, Active Directory, GPO), cloud admin (Office 365, Google Cloud), backup automation with PowerShell. |
 
+</div>
+
 <details>
 <summary><b>📜 &nbsp;Previous Trajectory (2017 – 2022)</b></summary>
 
 <br/>
+
+<div align="center">
 
 | Role | Company | Tenure | Reference |
 |---|---|:-:|:-:|
@@ -227,6 +267,8 @@
 | **Network Administrator** | Hotel Houston Bucaramanga | 7 months | <details><summary>📜</summary><img width="760" src="https://user-images.githubusercontent.com/66846214/121734068-e08c8c80-cab9-11eb-8a15-9e6a1e2436ba.jpg"/></details> |
 | **Business Manager** *(Corporate Relations · Tax · Legal)* | SENA | 8 months | <details><summary>📜</summary><img width="760" src="https://user-images.githubusercontent.com/66846214/121734506-7cb69380-caba-11eb-835b-547e6c4f175d.jpg"/></details> |
 | **Administrative Assistant** *(Billing review · Accounting supports)* | — | 5 months | <details><summary>📜</summary><img width="520" src="https://user-images.githubusercontent.com/66846214/121735028-301f8800-cabb-11eb-9f47-9b2ce94025ac.jpg"/></details> |
+
+</div>
 
 </details>
 
@@ -244,10 +286,14 @@
   <img width="70" src="https://media.giphy.com/media/1irGj8vnpt68Oq0kdu/giphy.gif"/>
 </p>
 
+<div align="center">
+
 | # | Certificate | Standard | Detail |
 |:-:|---|---|:-:|
 | 1 | **Technical Support &amp; Computer Repair** | Hardware processes | <details><summary>📜</summary><img width="760" src="https://user-images.githubusercontent.com/66846214/124142330-c22e0700-da4f-11eb-921c-23a62b5eab5a.png"/></details> |
 | 2 | **Computer Equipment Maintenance** | NSCL 220501001 *(2021)* | <details><summary>📜</summary><img width="420" src="https://user-images.githubusercontent.com/66846214/135277711-9ef2b6af-c330-44b2-8976-17ec190da7fc.jpg"/></details> |
+
+</div>
 
 <br/>
 
@@ -266,13 +312,19 @@
 
 **Professional Studies**
 
+<div align="center">
+
 | Certificate | Image URL |
 |---|---|
 | Software &amp; Data Engineering (IU Digital) | `https://raw.githubusercontent.com/JpdzRamirez/cros_repository/refs/heads/main/Resources/img/IUDitital.png` |
 | SENA · Software Analysis &amp; Development (ADSI) | `https://raw.githubusercontent.com/JpdzRamirez/cros_repository/refs/heads/main/Resources/img/SENA-ADSI.jpg` |
 | Technologist in Administrative Management | `https://user-images.githubusercontent.com/66846214/119906911-cb89f800-bf14-11eb-8923-506b7900e735.png` |
 
+</div>
+
 **Programming &amp; Development**
+
+<div align="center">
 
 | Certificate | Image URL |
 |---|---|
@@ -282,7 +334,11 @@
 | Web Programming Fundamentals (HTML5/CSS3/JS) | `https://user-images.githubusercontent.com/66846214/119887898-56112e00-befa-11eb-81ba-6591e81b51fa.jpg` |
 | Standard C++ Foundation | `https://user-images.githubusercontent.com/66846214/119885887-00d41d00-bef8-11eb-9640-2420fdbf258e.jpg` |
 
+</div>
+
 **Java Specialization Track**
+
+<div align="center">
 
 | Certificate | Image URL |
 |---|---|
@@ -293,7 +349,11 @@
 | Java · Control Variables (OOP) | `https://user-images.githubusercontent.com/66846214/134498915-2fc37249-c3db-4937-822d-67754a262a2d.jpg` |
 | Java · J2SE &amp; Collections | `https://user-images.githubusercontent.com/66846214/124141151-c86fb380-da4e-11eb-941b-3e2e4d45769f.png` |
 
+</div>
+
 **Cloud &amp; DevOps**
+
+<div align="center">
 
 | Certificate | Image URL |
 |---|---|
@@ -303,7 +363,11 @@
 | Webinar · Microsoft Azure | `https://user-images.githubusercontent.com/66846214/121727239-432d5a80-cab1-11eb-9929-d3cdd4a75d19.png` |
 | Webinar · DevOps | `https://user-images.githubusercontent.com/66846214/124177445-e3095300-da75-11eb-9a72-4f2f5f99b799.jpg` |
 
+</div>
+
 **Cybersecurity &amp; IT Support**
+
+<div align="center">
 
 | Certificate | Image URL |
 |---|---|
@@ -311,7 +375,11 @@
 | Computer Security Controls | `https://user-images.githubusercontent.com/66846214/119887189-6ecd1400-bef9-11eb-834e-3eaf4ef050c7.jpg` |
 | Google Professional IT Support | `https://raw.githubusercontent.com/JpdzRamirez/cros_repository/refs/heads/main/Resources/img/IT%20SUPPORT.jpg` |
 
+</div>
+
 **Data &amp; Administrative**
+
+<div align="center">
 
 | Certificate | Image URL |
 |---|---|
@@ -323,7 +391,11 @@
 | Customer Service | `https://user-images.githubusercontent.com/66846214/119907491-02144280-bf16-11eb-815b-93b688495fd0.jpg` |
 | Webinar · UX Design | `https://user-images.githubusercontent.com/66846214/121729214-cfd91800-cab3-11eb-9cb9-3ecdc5a1bc38.png` |
 
+</div>
+
 **Pre-work &amp; Front-End Webinars**
+
+<div align="center">
 
 | Certificate | Image URL |
 |---|---|
@@ -332,14 +404,22 @@
 | Webinar · Front-End with Visual .NET | `https://user-images.githubusercontent.com/66846214/120033967-f716ec00-bfc1-11eb-9211-2929b8482de8.png` |
 | Webinar · Front-End Web Developer | `https://user-images.githubusercontent.com/66846214/120033967-f716ec00-bfc1-11eb-9211-2929b8482de8.png` ⚠️ *(same file as Visual .NET)* |
 
+</div>
+
 **Technical &amp; Hardware**
+
+<div align="center">
 
 | Certificate | Image URL |
 |---|---|
 | Technical Support &amp; Computer Repair | `https://user-images.githubusercontent.com/66846214/124142330-c22e0700-da4f-11eb-921c-23a62b5eab5a.png` |
 | Computer Equipment Maintenance · NSCL 220501001 | `https://user-images.githubusercontent.com/66846214/135277711-9ef2b6af-c330-44b2-8976-17ec190da7fc.jpg` |
 
+</div>
+
 **Work Experience References**
+
+<div align="center">
 
 | Role / Company | Image URL |
 |---|---|
@@ -352,6 +432,8 @@
 | Business Manager · SENA | `https://user-images.githubusercontent.com/66846214/121734506-7cb69380-caba-11eb-835b-547e6c4f175d.jpg` |
 | Administrative Assistant | `https://user-images.githubusercontent.com/66846214/121735028-301f8800-cabb-11eb-9f47-9b2ce94025ac.jpg` |
 | CV / Resume | `https://raw.githubusercontent.com/JpdzRamirez/cros_repository/refs/heads/main/Resources/img/HV_JeremyPedraza.jpg` |
+
+</div>
 
 </details>
 
@@ -371,6 +453,8 @@
 &nbsp;•&nbsp;
 🐙 **[GitHub](https://github.com/JpdzRamirez)**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0b0f1a,30:00d4ff,70:00FF66,100:0b0f1a&amp;height=120&amp;section=footer"/>
+---
+
+<sub>⚡ Built with passion · Programming with ❤</sub>
 
 </div>
