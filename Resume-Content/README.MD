@@ -58,6 +58,10 @@
 
 ## 🎓 Professional Studies
 
+<p align="center">
+  <img width="380" src="https://static.wixstatic.com/media/6f12b8_56dfd62a41b049ef892a4c0ee6a7e39d~mv2.gif" alt="education"/>
+</p>
+
 | # | Program | Institution | Detail |
 |:-:|---|---|:-:|
 | 1 | **Software & Data Engineering** *(5 semesters)* | IU Digital de Antioquia | <details><summary>📜</summary><img width="760" src="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/refs/heads/main/Resources/img/IUDitital.png"/></details> |
@@ -71,6 +75,13 @@
 <!-- ============================================================ -->
 
 ## 💻 Programming & Development
+
+<p align="center">
+  <img width="400" src="https://i.pinimg.com/originals/6c/7e/c7/6c7ec7cbb462babe074fe20ec479fbf8.gif" alt="coding"/>
+  &nbsp;
+  <img width="35" src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif"/>
+  <img width="35" src="https://media.giphy.com/media/fo2dhRTmaULbStoFkX/giphy.gif"/>
+</p>
 
 | # | Certificate | Topic | Detail |
 |:-:|---|---|:-:|
@@ -104,6 +115,10 @@
 
 ## ☁️ Cloud & DevOps
 
+<p align="center">
+  <img width="400" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" alt="devops cloud"/>
+</p>
+
 | # | Certificate | Provider | Detail |
 |:-:|---|---|:-:|
 | 1 | **Google Cloud — Core Infrastructure** | Google Cloud | <details><summary>📜</summary><img width="760" src="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/refs/heads/main/Resources/img/Google-Core-Infraestructure.jpg"/></details> |
@@ -120,6 +135,10 @@
 
 ## 🔐 Cybersecurity & IT Support
 
+<p align="center">
+  <img width="420" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="hacker matrix"/>
+</p>
+
 | # | Certificate | Provider | Detail |
 |:-:|---|---|:-:|
 | 1 | **Google Cybersecurity** | Google | <details><summary>📜</summary><img width="760" src="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/refs/heads/main/Resources/img/CiberSecurity.jpg"/></details> |
@@ -133,6 +152,12 @@
 <!-- ============================================================ -->
 
 ## 📊 Data & Administrative
+
+<p align="center">
+  <img width="400" src="https://cdn.dribbble.com/users/85748/screenshots/657526/ivio_dribbble_02.gif" alt="administrative"/>
+  &nbsp;
+  <img width="70" src="https://media.giphy.com/media/S8TzUKzRPjepzJx37U/giphy.gif"/>
+</p>
 
 | # | Certificate | Area | Detail |
 |:-:|---|---|:-:|
@@ -166,6 +191,12 @@
 
 ## 💼 Work Experience
 
+<p align="center">
+  <img width="400" src="https://cdn.dribbble.com/users/537878/screenshots/3507453/desk-loop.gif" alt="work"/>
+  &nbsp;
+  <img width="70" src="https://media.giphy.com/media/QlZIHgXtKJy8iLcD4Q/giphy.gif"/>
+</p>
+
 | Role | Company | Tenure | Reference |
 |---|---|:-:|:-:|
 | **Electronic Invoicing Software Support Specialist** | Softlogy S.A.S | 🟢 *Present* | — |
@@ -185,6 +216,12 @@
 <!-- ============================================================ -->
 
 ## 🔧 Technical & Hardware
+
+<p align="center">
+  <img width="400" src="https://cdn.dribbble.com/users/2395254/screenshots/4962997/fix.gif" alt="repair"/>
+  &nbsp;
+  <img width="70" src="https://media.giphy.com/media/1irGj8vnpt68Oq0kdu/giphy.gif"/>
+</p>
 
 | # | Certificate | Standard | Detail |
 |:-:|---|---|:-:|
