@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img width="100%" height="200" style="object-fit:cover; border-radius:10px;" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="hacker coding terminal"/>
+<img width="100%" height="220" style="object-fit:cover; border-radius:10px;" src="https://images.steamusercontent.com/ugc/939432316730598692/998DF3BE9614B453D17E9776752BB36BCE2C8970/?imw=5000&amp;imh=5000&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=false" alt="banner"/>
 
 ```ansi
 [2;32m┌──([1;32mroot💀jpdz[2;32m)─[[1;36m~/resume[2;32m]
