@@ -4,12 +4,16 @@
 
 <div align="center">
 
-<img width="100%" height="170" style="object-fit:cover" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="matrix banner"/>
+<img width="100%" height="200" style="object-fit:cover; border-radius:10px;" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="hacker coding terminal"/>
 
-# `> Resume & Certificates`
+```ansi
+[2;32m┌──([1;32mroot💀jpdz[2;32m)─[[1;36m~/resume[2;32m]
+└─[1;32m$[0m ./decrypt_credentials.sh --all
+[1;32m[OK][0m access granted · 30+ certifications unlocked ✓
+```
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;pause=900&amp;color=00FF66&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Jeremy+Pedraza+%E2%80%A2+FullStack+Engineer;30%2B+verified+certifications;7%2B+years+of+experience;%5BOK%5D+access+granted" alt="terminal" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=26&amp;pause=900&amp;color=00FF66&amp;background=00000000&amp;center=true&amp;vCenter=true&amp;width=640&amp;height=60&amp;lines=%3E_+Resume+%26+Certificates;%3E_+Jeremy+Pedraza+%E2%80%94+FullStack+Engineer;%3E_+7%2B+years+of+experience" alt="terminal" />
 </a>
 
 <br/>
@@ -45,12 +49,23 @@
 
 ## 📄 Curriculum Vitae
 
-<details>
-<summary><b>📑 &nbsp;Open CV / Resume</b></summary>
-<p align="center">
-  <img width="820" src="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/refs/heads/main/Resources/img/HV_JeremyPedraza.jpg" alt="CV Jeremy Pedraza"/>
-</p>
-</details>
+<div align="center">
+
+<a href="https://www.jpdzsoftware.website">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=22&amp;pause=600&amp;color=00FF66&amp;background=00000000&amp;center=true&amp;vCenter=true&amp;width=560&amp;height=50&amp;lines=%3E_+Launching+interactive+portfolio...;%3E_+%F0%9F%91%89+CLICK+HERE+to+enter+%F0%9F%91%88;%3E_+www.jpdzsoftware.website" alt="click here" />
+</a>
+
+<br/>
+
+<a href="https://www.jpdzsoftware.website">
+  <img src="https://img.shields.io/badge/%F0%9F%91%89%20%20CLICK%20HERE%20%E2%80%94%20VISIT%20MY%20PORTFOLIO%20%20%F0%9F%91%88-0b0f1a?style=for-the-badge&amp;logo=hackthebox&amp;logoColor=00FF66&amp;labelColor=0b0f1a&amp;color=00FF66" alt="visit portfolio" height="42"/>
+</a>
+
+<br/>
+
+<sub>🖥️ Interactive Windows-11 style portfolio · live projects · downloadable CV</sub>
+
+</div>
 
 <br/>
 
