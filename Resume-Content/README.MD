@@ -4,13 +4,8 @@
 
 <div align="center">
 
-<img width="100%" height="220" style="object-fit:cover; border-radius:10px;" src="https://images.steamusercontent.com/ugc/939432316730598692/998DF3BE9614B453D17E9776752BB36BCE2C8970/?imw=5000&amp;imh=5000&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=false" alt="banner"/>
+<img width="80%" height="180" style="object-fit:cover; border-radius:10px;" src="https://images.steamusercontent.com/ugc/939432316730598692/998DF3BE9614B453D17E9776752BB36BCE2C8970/?imw=5000&amp;imh=5000&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=false" alt="banner"/>
 
-```ansi
-[2;32m┌──([1;32mroot💀jpdz[2;32m)─[[1;36m~/resume[2;32m]
-└─[1;32m$[0m ./decrypt_credentials.sh --all
-[1;32m[OK][0m access granted · 30+ certifications unlocked ✓
-```
 
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=26&amp;pause=900&amp;color=00FF66&amp;background=00000000&amp;center=true&amp;vCenter=true&amp;width=640&amp;height=60&amp;lines=%3E_+Resume+%26+Certificates;%3E_+Jeremy+Pedraza+%E2%80%94+FullStack+Engineer;%3E_+7%2B+years+of+experience" alt="terminal" />
