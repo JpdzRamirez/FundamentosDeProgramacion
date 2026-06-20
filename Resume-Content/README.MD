@@ -46,13 +46,13 @@
 
 <div align="center">
 
-<a href="https://www.jpdzsoftware.website">
+<a href="https://cv.jpdzsoftware.website">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=22&amp;pause=600&amp;color=00FF66&amp;background=00000000&amp;center=true&amp;vCenter=true&amp;width=560&amp;height=50&amp;lines=%3E_+Launching+interactive+portfolio...;%3E_+%F0%9F%91%89+CLICK+HERE+to+enter+%F0%9F%91%88;%3E_+www.jpdzsoftware.website" alt="click here" />
 </a>
 
 <br/>
 
-<a href="https://www.jpdzsoftware.website">
+<a href="https://cv.jpdzsoftware.website">
   <img src="https://img.shields.io/badge/%F0%9F%91%89%20%20CLICK%20HERE%20%E2%80%94%20VISIT%20MY%20PORTFOLIO%20%20%F0%9F%91%88-0b0f1a?style=for-the-badge&amp;logo=hackthebox&amp;logoColor=00FF66&amp;labelColor=0b0f1a&amp;color=00FF66" alt="visit portfolio" height="42"/>
 </a>
 
